@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106302388751",
+    "project_id": "healtbee-beff5",
+    "storage_bucket": "healtbee-beff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106302388751:android:0a499a925dab81f689c17a",
+        "android_client_info": {
+          "package_name": "com.healt.bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106302388751-telhs6vlvo3rvtm1mjjlcmkuq195ofmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healt.bee",
+            "certificate_hash": "5000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "client_id": "106302388751-njfs7fen9e6kf36h67a6rmemhgdjvb56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfGMy2OI5pCRvqsGHecwDa8RwWVBwkQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106302388751-njfs7fen9e6kf36h67a6rmemhgdjvb56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
